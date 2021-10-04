@@ -1,7 +1,7 @@
 # GIT-2021
 
-##Kumanovo
+## Kumanovo
 
-###Bitola
+### Bitola
 
-####Skopje
+#### Skopje
