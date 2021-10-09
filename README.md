@@ -1,7 +1,7 @@
 # GIT-2021
 
-## Kumanovo
+## Git & Github
 
-### Bitola
+### Creating of git repository
 
-#### Skopje
+#### Markdown of example text
